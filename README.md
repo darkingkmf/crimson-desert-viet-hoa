@@ -2,7 +2,7 @@
 
 Crimson Desert là một bản trường ca phiêu lưu thấm đẫm máu và thép, trải rộng khắp đại lục Pywel bao la. Hãy kề vai sát cánh cùng dũng sĩ Kliff trên chuyến viễn chinh phục hưng uy danh của thế lực Greymane, và cứu rỗi bờ cõi khỏi mầm tai ương đang chực chờ giáng xuống. Từ miền hoang dã mênh mang cùng những bá thành đồ sộ, cho tới các phế tích suy tàn và Vực Thẳm đầy uẩn khúc, hãy vung gươm rèn giũa vận mệnh của chính mình qua khói lửa chiến chinh và những dặm dài kỳ ngộ.
 
-## Hình ảnh
+## Hình ảnh Crimson Desert Việt Hóa
 
 <p align="center">
   <img src="assets/1.jpg" alt="Crimson Desert 1" width="45%" />
@@ -27,7 +27,7 @@ Crimson Desert là một bản trường ca phiêu lưu thấm đẫm máu và t
 
 Bản việt hóa **Crimson Desert** do **[Mèo Chill Team](https://meochill.com)** thực hiện, mang trải nghiệm đồng bộ ngôn ngữ cho cộng đồng người chơi Việt Nam — từ nhiệm vụ, giao diện, hội thoại đến kỹ năng và Codex.
 
-### Tiến độ (phiên bản việt hóa **v5.7**)
+### Tiến độ
 
 | Hạng mục   | Tiến độ |
 | ---------- | ------- |
@@ -37,9 +37,6 @@ Bản việt hóa **Crimson Desert** do **[Mèo Chill Team](https://meochill.com
 | Kỹ Năng    | 100%    |
 | Codex      | 100%    |
 
-<p align="center">
-  <img src="assets/tien-do-viet-hoa.png" alt="Tiến độ bản việt hóa Crimson Desert" width="480" />
-</p>
 
 ### Liên kết
 
@@ -50,4 +47,3 @@ Bản việt hóa **Crimson Desert** do **[Mèo Chill Team](https://meochill.com
 
 ---
 
-*Repository này giới thiệu game và bản việt hóa không chính thức; vui lòng tải patch và cập nhật từ nguồn Mèo Chill Team.*
