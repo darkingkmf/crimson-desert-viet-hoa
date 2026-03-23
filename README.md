@@ -2,6 +2,16 @@
 
 Crimson Desert là một bản trường ca phiêu lưu thấm đẫm máu và thép, trải rộng khắp đại lục Pywel bao la. Hãy kề vai sát cánh cùng dũng sĩ Kliff trên chuyến viễn chinh phục hưng uy danh của thế lực Greymane, và cứu rỗi bờ cõi khỏi mầm tai ương đang chực chờ giáng xuống. Từ miền hoang dã mênh mang cùng những bá thành đồ sộ, cho tới các phế tích suy tàn và Vực Thẳm đầy uẩn khúc, hãy vung gươm rèn giũa vận mệnh của chính mình qua khói lửa chiến chinh và những dặm dài kỳ ngộ.
 
+## Video
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=60FfHJ9h6sM" title="Xem trên YouTube">
+    <img src="https://img.youtube.com/vi/60FfHJ9h6sM/maxresdefault.jpg" alt="Crimson Desert — phát trên YouTube" width="720" />
+  </a>
+</p>
+
+<p align="center"><a href="https://www.youtube.com/watch?v=60FfHJ9h6sM">▶ Xem trên YouTube</a></p>
+
 ## Hình ảnh Crimson Desert Việt Hóa
 
 <p align="center">
